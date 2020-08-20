@@ -1,0 +1,6 @@
+name: FancyCropTrample
+main: xyz.derkades.trample.Trample
+version: 1.2.2
+author: Derkades
+description: 'Animated crop trample prevention'
+api-version: 1.13

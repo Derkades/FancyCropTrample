@@ -1,0 +1,6 @@
+# Possible modes:
+# hydrate - Only hydrate soil, the crop will disappear
+# full - Hydrate soil and grow crop to full height
+# original - Hydrate soil and grow crop to original height
+# random - Hydrate soil and grow crop to random height
+mode: original
